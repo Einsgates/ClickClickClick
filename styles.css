@@ -1,0 +1,24 @@
+.title {
+  display: flex;
+}
+
+h2 {
+  margin-right: 10px;
+}
+.grid {
+  width: 306px;
+  height: 306px; 
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.square {
+  height: 100px;
+  width: 100px;
+  border: solid black 1px;
+}
+
+.mole {
+  background-image: url('yutong.jfif');
+  /* background-size: cover; */
+}
